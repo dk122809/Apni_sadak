@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<manifest xmlns:android="http://schemas.android.com/apk/res/android"
+    package="com.example.apnisadak">
+
+    <application
+        android:allowBackup="true"
+        android:icon="@drawable/apnisadaklogo"
+        android:label="ApniSadak"
+        android:roundIcon="@mipmap/ic_launcher_round"
+        android:supportsRtl="true"
+        android:theme="@style/AppTheme">
+        <activity android:name=".LoginOption"></activity>
+        <activity android:name=".Register" />
+        <activity android:name=".LoginByEmailActivity" />
+        <activity android:name=".OurExtraServicesActivity" />
+        <activity android:name=".ContactUSActivity" />
+        <activity android:name=".OtherFeedbackActivity" />
+        <activity android:name=".AfterAllFeedBackActivity" />
+        <activity android:name=".AboutUsActivity" />
+        <activity android:name=".FeedbackActivity" />
+        <activity android:name=".PhoneAuthentication" />
+        <activity android:name=".MainActivity">
+            <intent-filter>
+                <action android:name="android.intent.action.MAIN" />
+
+                <category android:name="android.intent.category.LAUNCHER" />
+            </intent-filter>
+        </activity>
+    </application>
+
+</manifest>

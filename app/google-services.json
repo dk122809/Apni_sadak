@@ -1,0 +1,40 @@
+{
+  "project_info": {
+    "project_number": "8367165409",
+    "firebase_url": "https://apnisadak-ae99a.firebaseio.com",
+    "project_id": "apnisadak-ae99a",
+    "storage_bucket": "apnisadak-ae99a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:8367165409:android:6397dfb5b98e2f09190ca0",
+        "android_client_info": {
+          "package_name": "com.example.apnisadak"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "8367165409-pmouherrdpc169cto6n9ctqacpgob2oh.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDYCIjjEFjSlhQ32_W3X30MpSf0CKfCcrU"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "8367165409-pmouherrdpc169cto6n9ctqacpgob2oh.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
